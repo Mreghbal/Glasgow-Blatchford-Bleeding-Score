@@ -58,8 +58,8 @@ Please note that this code provides a basic implementation of the scoring calcul
 ## Follow Me on LinkedIn and Twitter<a name="follow-me-on-linkedin-and-twitter"></a>
 If you find this code useful or have any questions, feel free to connect with me on LinkedIn and follow me on Twitter for more updates and discussions related to healthcare and technology.
 
-LinkedIn: [Reza Eghbal](https://.linkedin.com/in/mreghbal)
+LinkedIn: [Reza Eghbal](https://linkedin.com/in/mreghbal)
 
-Twitter: [@r__egh](httpstwitter.com/r__egh)
+Twitter: [Reza Eghbal](https://twitter.com/r__egh)
 
 Thank you for using the Glasgow-Blatchford Bleeding Score Calculator!
